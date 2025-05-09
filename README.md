@@ -1,2 +1,5 @@
-# Teaching_Assistant
-A teaching assistant in Mechanical Construction Materials, based in AI, for Mechanical Engineering. (Portuguese Version)
+O site **[metallography.streamlit.app](https://metallography.streamlit.app/)** é uma aplicação web interativa desenvolvida com o framework Streamlit, voltada para a análise e estudo de microestruturas metálicas. Embora informações específicas sobre suas funcionalidades não estejam disponíveis nos resultados de busca, é possível inferir que o site oferece ferramentas para examinar e interpretar microestruturas metálicas, auxiliando profissionais e estudantes na compreensão das características dos materiais.
+
+A utilização do Streamlit permite que os usuários interajam com os dados de forma dinâmica, possivelmente incluindo a visualização de imagens de microestruturas, aplicação de filtros e realização de medições. Essa abordagem facilita a análise detalhada dos materiais, promovendo um ambiente de aprendizado prático e acessível.
+
+Em resumo, o **metallography.streamlit.app** configura-se como uma ferramenta educacional e profissional que, ao integrar recursos interativos, potencializa o estudo e a análise de materiais metálicos por meio da metalografia.
