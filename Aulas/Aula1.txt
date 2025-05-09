@@ -1,0 +1,167 @@
+Com base nas informações dos seus arquivos, apresento uma proposta de aula seguindo a estrutura do arquivo TXT e extraindo o conteúdo do arquivo PDF.
+
+---
+
+# Aula 1 - Metalografia, Aços e Ferros Fundidos
+
+## **1. Introdução**
+
+### Metalografia
+
+A metalografia é o estudo do produto metálico. Ela é realizada através da análise visual, que pode ser a olho nu ou com o auxílio de equipamentos como **microscópio óptico** (MO), **microscópio eletrônico de varredura** (MEV) ou **microscópio eletrônico de transmissão** (MET). O objetivo da metalografia é analisar a **microestrutura** de um produto metálico.
+
+A metalografia engloba diversas técnicas, incluindo:
+*   Preparo da amostra (seleção, local de corte, embutimento, lixamento, polimento, ataque químico).
+*   Registro fotográfico (que pode ser feito a olho nu, MO, MEV ou MET).
+*   Análise (avaliação da micrografia e registro em relatórios técnicos).
+
+Os tipos de ensaio para produtos siderúrgicos incluem **ensaios mecânicos**, **análise química** e **exame metalográfico**. A análise química, feita por espectroscopia, determina a quantidade de elementos químicos presentes na liga (% C, Si, Mn, P, S) e é relativamente rápida. O exame metalográfico, por sua vez, analisa a estrutura do metal para correlacionar propriedades, composição e processo de fabricação.
+
+### Aços e Ferros Fundidos
+
+Aços e ferros fundidos são **ligas de ferro (Fe) e carbono (C)**.
+*   **Aços carbono** são ligas de ferro com 0 a 2% de carbono. Eles podem conter pequenas quantidades de outros elementos como Mn, Si, P, S, que são consideradas impurezas. Outra definição para aço-carbono é uma liga de ferro (Fe) e carbono (C) contendo entre 0,05 e 2,0% de C.
+*   **Ferros fundidos** são ligas de ferro com 2 a 6,7% de carbono. Na prática, também contêm Si (sendo, portanto, uma liga ternária). O ferro fundido comercial geralmente contém de 2,1 a 4% de C.
+
+O **carbono (C)** é o principal elemento que distingue aços de ferros fundidos.
+
+## **2. Aços e Ferros Fundidos: Propriedades e Características**
+
+### Efeito do Carbono no Aço
+
+O teor de carbono influencia significativamente as propriedades do aço:
+*   Aumenta a **dureza**.
+*   Aumenta a **resistência mecânica** (LRT e Lesc).
+*   Diminui o **alongamento**.
+*   Reduz a **tenacidade**.
+*   Menor facilidade na **soldagem**.
+
+### Ligas e Elementos de Adição
+
+**Ligas** são formadas pela adição de elementos químicos diferentes ao metal base.
+*   **Aço-carbono** é a liga Fe-C, com 0,05 a 2,0% de C.
+*   **Aços-liga** são aços com adição de outros elementos químicos, como Cr, Ni, Mn, etc..
+
+O efeito de alguns elementos de adição (liga) incluem:
+*   Vanádio (V): Tenacidade e excelente desoxidante.
+*   Cromo (Cr): Aumenta a resistência ao desgaste.
+*   Boro (B): Resistência à fadiga.
+*   Níquel (Ni): Boa ductilidade e resistência à corrosão.
+*   Tungstênio (W): Alta resistência mesmo em altas temperaturas.
+*   Manganês (Mn): Ductilidade, resistência ao desgaste/choque.
+*   Silício (Si): Aumenta a elasticidade e resistência.
+*   Alumínio (Al): Desoxidante.
+*   Molibdênio (Mo): Alta resistência ao amolecimento.
+
+O ferro puro tem brilho metálico, boa condutividade térmica e elétrica, cor acinzentada, peso específico de 7,8 g/cm³ e temperatura de fusão de 1350 a 1400ºC.
+
+## **3. Classificação dos Aços**
+
+Os aços são classificados com base em diferentes critérios:
+
+### A. Quanto à composição química
+
+*   **Aço-carbono**: Classificados pelo teor de carbono.
+    *   < 0,15% C: **Extra-doce**.
+    *   0,15 - 0,30% C: **Doce** (Baixo Carbono).
+    *   0,30 - 0,40% C: **Meio-doce**.
+    *   0,40 - 0,60% C: **Médio-carbono** (Meio-duro).
+    *   0,60 - 0,70% C: **Duro**.
+    *   0,70 - 1,20% C: **Alto Carbono** (Extra-duro).
+
+*   **Aços Especiais (liga)**: Contêm um ou mais elementos de liga além de Fe e C, em quantidades que modificam ou melhoram substancialmente suas propriedades.
+    *   **Aços de baixa liga**: Somatório dos teores dos elementos de liga inferior a 5%.
+    *   **Aços de alta liga**: Somatório dos teores dos elementos de liga superior a 5%.
+
+### B. Quanto à aplicação
+
+*   **Aços de construção**: Usados na manufatura de componentes de equipamentos industriais.
+*   **Aços para ferramentas e matrizes**: Incluem aços resistentes ao choque, para trabalho a frio e a quente, e aços rápidos.
+*   **Aços Inoxidáveis e resistentes ao calor**: Correspondem aos aços inoxidáveis martensíticos, ferríticos e austeníticos, mais aços refratários.
+*   **Aços com características especiais**: Como aços para ímãs permanentes, para núcleos de transformadores, etc..
+
+### C. Quanto às normas técnicas
+
+*   Exemplo ABNT para construção civil: ABNT CA 25A – aços para construção civil com resistência à tração (sesc) = 25 Kgf/mm².
+*   Exemplo ABNT - SAE para construção mecânica:
+    *   SAE 1010 - aço carbono com 0,10% de carbono.
+    *   SAE 1008 - aço carbono com 0,08% de carbono.
+
+## **4. Nomenclatura dos Aços SAE**
+
+O sistema SAE utiliza quatro algarismos para designar os aços.
+*   Os **dois últimos algarismos** indicam o teor de carbono.
+*   Os **dois primeiros algarismos** indicam o tipo e a quantidade aproximada dos elementos da liga.
+*   Quando o primeiro algarismo é **1**, os aços são simplesmente **aços-carbono**, desconsiderando teores mínimos de manganês, silício, fósforo e enxofre (considerados iguais a zero neste caso).
+
+A classificação quanto ao primeiro número dos 4 algarismos inclui:
+*   1: aço carbono.
+*   2: Ni.
+*   3: Ni-Cr.
+*   4: Mo.
+*   5: Cr.
+*   6: Cr-V.
+*   7: W.
+*   8: Ni-Cr-Mo.
+*   9: Si-Mn.
+
+Exemplos de nomenclatura SAE:
+*   SAE 2350: Aço ao níquel com 3% de níquel e 0,50% C.
+*   SAE 5130: Aço ao cromo com 1% de cromo e 0,30% de C.
+*   SAE 9220: Aço ao silício-manganês com 2% de Si-Mn e 0,20% C.
+
+## **5. Exame Metalográfico e Interpretação**
+
+O exame metalográfico é a análise da estrutura do metal. Ele procura correlacionar as propriedades do material à sua composição e ao processo de fabricação.
+
+Existem dois níveis de análise visual:
+*   **Macrografia**: Análise visual a olho nu ou com pequeno aumento. Exemplos incluem ruptura por fadiga de eixo.
+*   **Micrografia**: Análise com auxílio de microscópios (MO, MEV, MET) para visualizar a microestrutura. Exemplos incluem micrografias de aço eutético, hipereutético, hipoeutético, solda elétrica, filete de rosca, e efeito do trabalho mecânico.
+
+Informações que podem ser obtidas pela metalografia incluem:
+*   Homogeneidade e distribuição de fases.
+*   Natureza e quantidade de impurezas e inclusões.
+*   Falhas.
+*   Tamanho de grão.
+
+O exame metalográfico também pode identificar **heterogeneidades**, como:
+*   Vazio ou rechupe de solidificação.
+*   Massalote ou zona quente.
+*   Segregação de impurezas durante a solidificação, que podem formar linhas de segregação.
+*   Crescimento de dendritas e segregação de impurezas nos espaços entre elas durante a solidificação.
+
+### Principais Microestruturas em Aços
+
+*   **Martensita**: Obtida pela **têmpera** de ligas ferro-carbono. Envolve aquecer até a austenitização e resfriar rapidamente até a temperatura ambiente. A austenita (estrutura cúbica de face centrada - CFC) transforma-se em uma estrutura tetragonal de corpo centrado (TCC). Os átomos de carbono permanecem como impurezas intersticiais, formando uma solução sólida supersaturada de carbono. É a estrutura mais **dura**, mais **resistente** e mais **frágil**. É monofásica com estrutura TCC.
+*   **Martensita Revenida**: Obtida pelo **revenimento** da peça temperada. Envolve aquecimento abaixo da zona crítica por um período e resfriamento rápido. São estruturas tão duras e resistentes quanto a martensita, mas com maior **ductilidade** e **tenacidade**. A estrutura é composta por ferrita + Fe₃C (cementita).
+*   **Bainita**: Estrutura formada a partir da **austêmpera**. Envolve resfriamento rápido da austenita para formar a bainita, que tem uma estrutura de agulhas. O objetivo é obter peças com alta **tenacidade** e resistência à **fadiga**, como molas. Pode aparecer como Bainita Inferior ou Bainita Superior.
+*   **Esferoidização ou Coalescimento**: Um processo que melhora a **usinabilidade**, especialmente em aços de alto carbono. Também facilita a **deformação a frio**.
+
+Micrografias podem ilustrar o efeito do trabalho mecânico, por exemplo, comparando a estrutura de um aço baixo carbono trabalhado a frio com o mesmo aço após recozimento em diferentes temperaturas.
+
+## **6. Ferros Fundidos**
+
+Ferros fundidos são ligas Fe-C com teor de carbono acima de 2,0%. A composição típica inclui C (2-4%), Si (0,5-3%), Mn (<1%), e S (<0,2%).
+
+Uma consequência do alto teor de C (>2%) é que ele está acima do teor que pode ser retido em solução sólida na austenita. Isso resulta em **carbono parcialmente livre**, que aparece na forma de veios ou lamelas de **Grafita**.
+
+A classificação dos ferros fundidos quanto ao tipo de liga considera as propriedades e a forma da grafita:
+
+*   **Ferro Fundido Branco**: Caracterizado pela estrutura de **Ledeburita**. Possui alta dureza (ex: Dureza Brinell 450, RC 44). Tem fratura frágil [32, *não citado no PDF*].
+*   **Ferro Fundido Cinzento**: Caracterizado pela presença de **grafita lamelar** devido ao C livre na matriz (que pode ser de ferrita, perlita ou outra estrutura proveniente da austenita). Possui boa **usinabilidade**.
+*   **Ferro Fundido Dúctil (ou Nodular, ou Esferoidal)**: A grafita se apresenta em forma **esferoidal** (nódulos). Possui alta **resistência**, **tenacidade** e **ductilidade**. Possui boa fluidez e usinabilidade. Exemplos de aplicações: válvulas, carcaças de bombas, virabrequins, engrenagens, pinhões, cilindros e outros componentes de máquinas e automóveis. Dureza típica: Dureza Brinell 300, RC 30.
+*   **Ferro Fundido Maleável**: Obtido a partir do ferro fundido branco por um processo de recozimento. A grafita se apresenta em forma de **Rosetas**. Possui propriedades similares ao FF dúctil. Apresenta alta resistência, tenacidade e ductilidade. Possui boa resistência à corrosão, boa usinabilidade e fluidez. A alta taxa de resfriamento necessária para produzir o fofo branco inicialmente restringe o tamanho e a espessura das peças de fofo maleável (menores de 4,5 Kg). Variando a taxa de resfriamento, pode-se obter um largo espectro de propriedades.
+
+## **7. Aços Inoxidáveis**
+
+**Aços Inoxidáveis** são aços normalmente com baixo teor de carbono e teor de **cromo (Cr) acima de 12%**, além de outros elementos de liga. Sua característica principal é a elevada **resistência à corrosão**.
+
+As principais famílias de aços inoxidáveis, segundo sua microestrutura, são:
+*   **Ferríticos**: Ligas inoxidáveis com alto cromo e baixo carbono. Possuem estrutura ferrítica em todas as temperaturas abaixo da temperatura de fusão. **Não endurecem por tratamento térmico**.
+*   **Martensíticos**: Ligas inoxidáveis ao cromo e carbono que têm composições que interceptam o campo austenítico. **São temperáveis**. Possuem boa resistência à corrosão. Aplicações principais: cutelaria, instrumentos cirúrgicos, peças para válvulas e bombas, peças para turbinas a vapor e bombas, moldes para plásticos e vidros.
+*   **Austeníticos**: Ligas inoxidáveis de baixo teor de carbono, ligadas ao Cr-Ni. Possuem estrutura essencialmente austenítica. Apresentam boa resistência à corrosão e oxidação em diversos meios. Possuem excelente **tenacidade**, mesmo em baixas temperaturas. Têm boa resistência mecânica a temperaturas elevadas. Sua elevada **ductilidade** os torna especialmente adequados à fabricação por conformação.
+*   **Duplex**: Possuem uma estrutura mista ferrítica-austenítica.
+
+Os aços inoxidáveis podem estar sujeitos a diferentes tipos de corrosão, como Sensitização (ou Weld Decay), Corrosão por Pites, Corrosão sob Tensão e Corrosão Intergranular.
+
+

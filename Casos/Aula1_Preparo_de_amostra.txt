@@ -1,0 +1,25 @@
+# Estudo de Caso
+
+## Análise Metalográfica de uma Junta Soldada Crítica - Desafios e Cuidados no Preparo da Amostra
+
+**Contexto:**
+
+Uma empresa de fabricação de equipamentos pesados identificou um problema de falha prematura em uma junta soldada de um componente estrutural de aço. Suspeita-se que a falha esteja relacionada à qualidade da solda ou a alterações microestruturais indesejadas na Zona Afetada pelo Calor (ZAC - ou HAZ em inglês) durante o processo de soldagem. Uma **análise metalográfica** é essencial para investigar a causa raiz da falha, verificando a microestrutura do metal de solda, da ZAC e do metal base, e buscando a presença de defeitos ou heterogeneidades.
+
+**Desafio proposto:**
+
+Você é o técnico metalografista encarregado de preparar a amostra proveniente da área de falha da junta soldada para análise microscópica. O desafio reside no fato de que uma junta soldada é uma área complexa, apresentando diferentes zonas (metal base, ZAC, metal de solda) com possíveis variações de dureza e microestrutura. A **preparação inadequada** pode introduzir artefatos, mascarar defeitos reais ou não revelar corretamente as microestruturas de todas as zonas de interesse. Você deve planejar e executar o preparo da amostra garantindo que todas as etapas sejam realizadas corretamente para permitir uma análise confiável da microestrutura, possíveis defeitos de soldagem (como porosidade ou falta de fusão) e características microestruturais (como tamanho de grão, fases presentes, como ferrita, perlita, bainita ou martensita) que possam ter contribuído para a falha.
+
+**Tarefa:**
+
+Elabore um **procedimento detalhado** para o preparo metalográfico da amostra da junta soldada, abordando as seguintes etapas com considerações específicas para este tipo de amostra:
+
+1.  **Seleção e corte da amostra:** Descreva como a amostra deve ser selecionada e cortada para incluir todas as zonas de interesse (metal base, ZAC e metal de solda). Justifique a importância de um corte cuidadoso.
+2.  **Embutimento:** Explique a necessidade do embutimento e o tipo de resina (a frio ou a quente) mais adequado para esta amostra, considerando a preservação das bordas e a manipulação da amostra complexa.
+3.  **Lixamento:** Detalhe o processo de lixamento, a sequência de granulações e os cuidados necessários para garantir uma superfície plana e livre de riscos profundos, especialmente ao lidar com as diferentes durezas das zonas da solda.
+4.  **Polimento:** Descreva as etapas de polimento (grosso e fino) para obter uma superfície espelhada, essencial para a visualização da microestrutura ao microscópio óptico ou eletrônico. Mencione os cuidados para evitar "relevos" entre as diferentes zonas.
+5.  **Ataque químico:** Explique a finalidade do ataque químico na amostra preparada. Descreva como deve ser feito o ataque para revelar a microestrutura e as diferentes zonas da junta soldada, permitindo a visualização de fases e contornos de grão.
+
+**Dificuldade:** Intermediária
+
+**Tipo de resposta:** Abrangente (Completa)
