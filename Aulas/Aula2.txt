@@ -247,7 +247,7 @@
 
 | Riscos      | Abaulamento | 
 |:-----------:|:-----------:|
-|![Riscos](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Scratches-after-diamond-polishing-974x640px.jpg?w=600&hash=E7190DA6B1D3343396E9D4CDE7F7FE59 | ![Abaulamento](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Edge-rounding-1-px.jpg?w=600&hash=384D96BD4EC4DBD250CFE903EA2828D4) |
+|![Riscos](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Scratches-after-diamond-polishing-974x640px.jpg?w=600&hash=E7190DA6B1D3343396E9D4CDE7F7FE59) | ![Abaulamento](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Edge-rounding-1-px.jpg?w=600&hash=384D96BD4EC4DBD250CFE903EA2828D4) |
 
 | Cometas      | Contaminação | 
 |:------------:|:------------:|
