@@ -246,22 +246,17 @@
 
 
 
-::: {#fig-erros1 layout-ncol=2}
+::: {layout-ncol=2}
+![Riscos](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Scratches-after-diamond-polishing-974x640px.jpg?w=600&hash=E7190DA6B1D3343396E9D4CDE7F7FE59){width=50%}
 
-
-![Riscos](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Scratches-after-diamond-polishing-974x640px.jpg?w=600&hash=E7190DA6B1D3343396E9D4CDE7F7FE59){width=50%, #fig-Riscos}
-
-![Abaulamento](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Edge-rounding-1-px.jpg?w=600&hash=384D96BD4EC4DBD250CFE903EA2828D4){width=50%, #fig-Abaulamento}
-
+![Abaulamento](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Edge-rounding-1-px.jpg?w=600&hash=384D96BD4EC4DBD250CFE903EA2828D4){width=50%}
 :::
 
 
-::: {#fig-erros2 layout-ncol=2}
+::: {layout-ncol=2}
+![Cometas](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Comet-tails-2-px.jpg?w=600&hash=D0B7C2EB2874F7FFDFF3072BD6A78F69){width=50%}
 
-![Cometas](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Comet-tails-2-px.jpg?w=600&hash=D0B7C2EB2874F7FFDFF3072BD6A78F69){width=50%, #fig-Cometas}
-
-![Contaminação](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Lapping-tracks-1-px.jpg?w=600&hash=028FFFD15ADA4AA33B679802309AA4BC){width=50%, #fig-Contaminação}
-
+![Contaminação](https://struers-web-production-17090b-cd-us.azurewebsites.net/-/media/Struers-media-library/Knowledge/Grinding-and-polishing/Troubleshooting/Lapping-tracks-1-px.jpg?w=600&hash=028FFFD15ADA4AA33B679802309AA4BC){width=50%}
 :::
 
 ### **9\. Documentação e Relatório Metalográfico**
