@@ -1,0 +1,48 @@
+## **Estudo de Caso: Análise Metalográfica de uma Junta Soldada Crítica \- Desafios e Cuidados no Preparo da Amostra**
+
+### **Contexto:**
+
+Uma metalúrgica especializada na fabricação de vasos de pressão para a indústria química observou a falha de um lote de componentes após um curto período de operação. A inspeção inicial revelou que a falha se deu especificamente nas **juntas soldadas**, levantando preocupações sobre a qualidade do processo de soldagem ou a adequação microestrutural da região soldada. Para investigar a causa raiz, é mandatório realizar uma **análise metalográfica** aprofundada. Esta análise deve permitir a caracterização do metal de solda, da Zona Afetada pelo Calor (ZAC) e do metal base, buscando identificar quaisquer anomalias microestruturais, defeitos ou heterogeneidades que possam ter contribuído para a falha prematura.
+
+### **Desafio Proposto:**
+
+Você, como **técnico metalografista** recém-formado e responsável pelo laboratório da metalúrgica, é o encarregado de preparar amostras representativas da região da falha da junta soldada para posterior análise microscópica. O principal desafio reside na **complexidade microestrutural da junta soldada**, que apresenta distintas zonas (metal base, ZAC e metal de solda) com características e durezas que podem variar significativamente. A **preparação inadequada** da amostra pode introduzir artefatos, mascarar defeitos reais (como porosidades, trincas ou falta de fusão) ou, ainda pior, não revelar corretamente as microestruturas de todas as zonas de interesse, comprometendo a análise e a determinação da causa da falha.
+
+Você deve planejar e executar o preparo da amostra, garantindo que todas as etapas metalográficas sejam realizadas com extremo rigor e cuidado, permitindo uma análise confiável da microestrutura. Isso inclui a visualização de fases (ferrita, perlita, bainita, martensita), contornos de grão e a identificação de defeitos intrínsecos à soldagem que podem ter sido o gatilho da falha.
+
+### **Tarefa:**
+
+Elabore um **procedimento detalhado para o preparo metalográfico** da amostra da junta soldada, abordando as seguintes etapas com considerações específicas e cuidados adicionais para este tipo de amostra complexa:
+
+1. **Seleção e Corte da Amostra:**
+
+   * Descreva como a amostra deve ser selecionada e cortada para **incluir todas as zonas de interesse** (metal base, ZAC e metal de solda) em uma única amostra transversal.  
+   * Justifique a **importância de um corte cuidadoso**, explicando os riscos do superaquecimento e da deformação mecânica para uma junta soldada, que pode apresentar diferentes sensibilidades térmicas e mecânicas entre suas regiões.  
+2. **Embutimento:**
+
+   * Explique a necessidade do embutimento para esta amostra específica, considerando seu tamanho e formato complexo.  
+   * Discuta o **tipo de resina (a frio ou a quente)** que seria mais adequado para o embutimento de uma junta soldada, justificando a escolha em termos de preservação das **bordas delicadas** da solda (onde podem ocorrer defeitos superficiais) e a **variação de dureza** entre as diferentes zonas.  
+   * Mencione a importância da **adesão** da resina à amostra para evitar fendas.  
+3. **Lixamento:**
+
+   * Detalhe o processo de lixamento, especificando a **sequência de granulações** das lixas que seriam utilizadas (ex: P120, P400, P800, P1200, P2500).  
+   * Descreva os **cuidados necessários** para garantir uma superfície plana e livre de riscos profundos, enfatizando as técnicas para lidar com as **diferentes durezas e taxas de desbaste** das zonas do metal base, ZAC e metal de solda, que podem levar a formação de "relevos" indesejados.  
+4. **Polimento:**
+
+   * Descreva as **etapas de polimento (grosso, intermediário e final)** para obter uma superfície espelhada, crucial para a visualização da microestrutura em altos aumentos.  
+   * Mencione os **tipos de abrasivos e panos** mais adequados para cada etapa.  
+   * Explique os **cuidados específicos** para evitar a formação de "relevos" entre as diferentes zonas da solda e o "arrancamento" de fases ou inclusões, que são mais comuns em materiais com grande variação de dureza.  
+5. **Ataque Químico:**
+
+   * Explique a **finalidade do ataque químico** na amostra de junta soldada, considerando a necessidade de revelar as fases, os contornos de grão e, crucialmente, as **diferentes zonas da solda** (metal de solda, ZAC e metal base).  
+   * Sugira **reagentes metalográficos** específicos para aços (considerando que vasos de pressão são frequentemente feitos de aço carbono ou baixa liga, mas também pode ser aço inoxidável) e descreva **como o ataque deve ser feito** para garantir a diferenciação dessas zonas e a visualização clara da microestrutura em cada uma delas.  
+   * Mencione os cuidados para evitar o **super-ataque ou sub-ataque** e a **manutenção da limpeza** da amostra após o ataque.
+
+### **Dificuldade:**
+
+Intermediária a Avançada (devido à complexidade da amostra soldada).
+
+### **Tipo de resposta:**
+
+Abrangente (Completa)
+
