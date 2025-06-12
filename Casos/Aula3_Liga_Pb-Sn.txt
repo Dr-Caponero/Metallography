@@ -1,0 +1,39 @@
+# Estudo de Caso
+
+## Análise e Otimização da Liga Pb-Sn para Soldagem Eletrônica
+
+**Contexto:**
+
+Uma empresa do setor eletrônico produz dispositivos que utilizam soldas à base da liga Pb-Sn para montagem de componentes em placas de circuito impresso. A liga eutética padrão (63% Sn - 37% Pb) tem sido utilizada para garantir um ponto de fusão baixo e adequado para o processo de soldagem. Entretanto, a empresa deseja avaliar como pequenas variações na composição da liga e no controle térmico durante a solidificação podem influenciar a microestrutura e, consequentemente, as propriedades mecânicas das juntas soldadas.
+
+**Desafio proposto:**
+
+Você foi designado como engenheiro de materiais para analisar e propor ajustes na composição da liga Pb-Sn e no perfil térmico de resfriamento, com base no diagrama de fases Pb-Sn e seus conceitos fundamentais.
+
+Sua proposta deve abordar os seguintes pontos:
+
+Identificar, com base no diagrama de fases binário Pb-Sn, as regiões de fases presentes para diferentes composições próximas ao ponto eutético e suas temperaturas de transição.
+
+Propor variações na composição da liga Pb-Sn que podem alterar a microestrutura resultante, considerando as fases α (rica em Pb), β (rica em Sn) e a mistura eutética, e discutir o efeito dessas alterações sobre as propriedades mecânicas da junta.
+
+Explicar como o controle do resfriamento durante a solidificação influencia a distribuição das fases e a formação do microconstituinte eutético, relacionando o perfil térmico à microestrutura final.
+
+Discutir brevemente as vantagens e limitações da liga eutética Pb-Sn, considerando as características microestruturais obtidas a partir do diagrama de fase, e como essas influenciam o desempenho da solda.
+
+![Diagrama Pb-Sn](https://arquivos.respondeai.com.br/seo-mirror/exercise/2023/d2e7bc91-4dc7-4e46-ba0f-4c2b0a14a9fc.webp)
+
+**Tarefa:**
+
+Elabore um parecer técnico contendo:
+
+Uma proposta clara da composição recomendada da liga Pb-Sn, fundamentada na análise do diagrama de fases e das fases presentes para diferentes composições.
+
+Uma análise detalhada da relação entre a microestrutura obtida e as propriedades mecânicas esperadas, destacando o papel das fases α, β e do eutético.
+
+Uma breve discussão sobre a importância do perfil térmico de resfriamento para controlar a microestrutura da junta soldada.
+
+Considerações finais sobre o equilíbrio entre as propriedades desejadas e as limitações inerentes à liga Pb-Sn para a aplicação em soldagem eletrônica.
+
+**Dificuldade:** Intermediária
+
+**Tipo de resposta:** Abrangente (Completa)

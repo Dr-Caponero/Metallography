@@ -1,0 +1,47 @@
+# Estudo de Caso
+
+**Definição de Tratamento Térmico para Eixo de Máquinas Pesadas em Aço AISI 4140**
+
+**Contexto:**
+Uma empresa especializada na fabricação de componentes para máquinas pesadas está desenvolvendo um novo modelo de eixo para escavadeiras hidráulicas, que será submetido a elevados esforços de torção e fadiga, além de operar em ambientes agressivos e sob ciclos térmicos variáveis. O componente será fabricado em aço AISI 4140, devido à sua reconhecida combinação entre resistência mecânica, tenacidade e boa resposta a tratamentos térmicos.
+
+Para garantir o desempenho ideal, o setor de engenharia de materiais da empresa deve definir um ciclo de tratamento térmico baseado na interpretação correta da curva TTT do AISI 4140 e nas condições de serviço.
+
+![https://testmat.com.br/wp-content/uploads/TTT-AISI-4140-768x674.jpg](https://testmat.com.br/wp-content/uploads/TTT-AISI-4140-768x674.jpg)
+
+O objetivo é alcançar uma microestrutura predominantemente martensítica, capaz de oferecer elevada dureza superficial, mas com suficiente tenacidade para resistir aos choques mecânicos.
+
+**Desafio proposto:**
+Você foi contratado como engenheiro de materiais da equipe de desenvolvimento e deverá definir e justificar a rota de tratamento térmico ideal para a fabricação do eixo, abordando os seguintes pontos:
+
+1. **Análise da curva TTT do AISI 4140:**
+
+   * Indicar a região do gráfico que representa a formação da martensita.
+   * Determinar a velocidade crítica de resfriamento para evitar a formação de fases intermediárias como perlita ou bainita, assegurando uma estrutura predominantemente martensítica.
+
+2. **Proposta de ciclo de tratamento térmico:**
+
+   * Definir a temperatura de austenitização, o meio de resfriamento ideal e as possíveis etapas subsequentes (como revenimento) para ajustar as tensões internas e a tenacidade.
+   * Justificar tecnicamente cada etapa proposta, com base na análise da curva TTT e nas características do aço AISI 4140.
+
+3. **Discussão sobre a microestrutura final e propriedades resultantes:**
+
+   * Descrever as fases esperadas após o tratamento térmico e como elas contribuem para as propriedades desejadas: dureza, resistência mecânica, tenacidade e resistência à fadiga.
+   * Discutir eventuais riscos associados ao processo, como a formação de trincas por têmpera, e estratégias para mitigá-los.
+
+4. **Considerações sobre a aplicação:**
+
+   * Relacionar como a microestrutura obtida irá influenciar o desempenho do eixo em condições reais de operação.
+   * Discutir possíveis alternativas de tratamento (como têmpera e revenimento ou austêmpera) e as vantagens ou desvantagens associadas a cada uma.
+
+**Tarefa:**
+Elabore um parecer técnico contendo:
+
+* A proposta de ciclo de tratamento térmico, com descrição detalhada das temperaturas, tempos e meios utilizados;
+* A interpretação gráfica da curva TTT do AISI 4140, destacando os pontos críticos para o sucesso do tratamento;
+* A análise da microestrutura final e como ela assegura o desempenho adequado do eixo;
+* Considerações sobre riscos e alternativas possíveis.
+
+**Dificuldade:** Intermediária
+
+**Tipo de resposta:** Abrangente (Completa)
